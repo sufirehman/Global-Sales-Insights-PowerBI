@@ -30,5 +30,6 @@ This project includes three distinct dashboards designed to provide comprehensiv
 
 <img width="1294" height="775" alt="image" src="https://github.com/user-attachments/assets/c82db45a-02be-4f9c-b120-795e2b703b48" />
 
+
 Each dashboard is designed to offer actionable insights tailored to its specific focus area, enabling data-driven decision making across sales, product management, and shipping operations.
 
