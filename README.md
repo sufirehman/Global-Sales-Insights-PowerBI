@@ -13,15 +13,22 @@ This project includes three distinct dashboards designed to provide comprehensiv
 - Includes metrics such as total sales, revenue trends, and regional sales breakdown
 - Helps identify top-performing products and sales growth opportunities
 
+<img width="1292" height="729" alt="Sales" src="https://github.com/user-attachments/assets/8b5eb18a-af03-439b-9339-d89b8b2e0b4b" />
+
 ### 2. Product Dashboard
 - Focuses on product-related metrics and analytics
 - Tracks product categories, inventory levels, and product profitability
 - Assists in understanding product performance and stock management
 
+<img width="1303" height="768" alt="image" src="https://github.com/user-attachments/assets/f94fa813-912e-41f1-9cbb-d998d70dc912" />
+
+
 ### 3. Shipping Dashboard
 - Monitors shipping operations and delivery status
 - Displays shipping times, carrier performance, and order fulfillment rates
 - Supports optimization of logistics and supply chain processes
+
+<img width="1294" height="775" alt="image" src="https://github.com/user-attachments/assets/c82db45a-02be-4f9c-b120-795e2b703b48" />
 
 Each dashboard is designed to offer actionable insights tailored to its specific focus area, enabling data-driven decision making across sales, product management, and shipping operations.
 
